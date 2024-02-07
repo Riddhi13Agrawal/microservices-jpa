@@ -1,0 +1,4 @@
+insert into course(id , name , author) values (12,'The Villian' , 'L.J. Shein');
+select * from course;
+delete from course where name='The Villian';
+
